@@ -1,0 +1,13 @@
+:root{
+    --bs-font-sans-serif: "Plus Jakarta Sans";
+    --bs-body-font-family: var(--bs-font-sans-serif);
+
+}
+
+*{
+    font-family: 'Nunito', sans-serif;
+}
+
+body{
+    font-family: 'Nunito', sans-serif;
+}
